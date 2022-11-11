@@ -1,8 +1,9 @@
-### Hi there ! I´m Karoline 💟
+### Hi there ! I am Karoline ❤️
 
- - 🌱 Atualmente estou apredendendo sobre tecnologia
- - 💬 Problema de negócios e tecnologias
- - 😄 ela/dela
+ - 🌟 Encantada por tecnologiais
+ - 💻 Negócios e tecnologias
+ - 👧 ela/dela
+ - 📖 Em evolução
  
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolineNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
