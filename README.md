@@ -1,6 +1,6 @@
 ## Hi there ! I'm Karoline ❤️
 
- - 🌟 Encantada por tecnologiais
+ - 🌟 Entusiasta e encantada por tecnologiais
  - 💻 Negócios e tecnologias
  - 👧 ela/dela
  - 📖 Em evolução
